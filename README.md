@@ -27,7 +27,7 @@ Exemple : Start by defining the endpoints of your API.
 ```js
 import { thing } from 'src/url/to/component';
 
-const apiEndpoints = {
+const someThing = {
   doThings: { 
 	  option1: 'value', 
 	  option2: 'value' 
