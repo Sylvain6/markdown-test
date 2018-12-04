@@ -16,7 +16,7 @@ Maybe we can use tags.
 
 * [A thing](#link-to-A)
 * [B thing](#link-to-B)
-  * [Sub A thing](#link-to-A-1)
+  * [Sub B thing](#link-to-A-1)
 * [C thing](#link-to-C)
 
 ## Usage 1 template
