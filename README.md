@@ -59,6 +59,8 @@ thing.method()
 Est sequi tegenda excusatione ire modo curae sequi est est consensio consensio ut aliquando amicitiae est vel bellum sit futurum futura sequi futurum est vel.
 </details>
 
+---
+
 `options : object`\
 
 <details>
@@ -66,6 +68,8 @@ Est sequi tegenda excusatione ire modo curae sequi est est consensio consensio u
 <br>
 De te esse Epicuri video ita instructior probo quas aut De artibus vellem De deterruisset doctrinis tenent cetero cetero probo vellem inquam est deterruisset qui.
 </details>
+
+---
 
 ### Examples
 
