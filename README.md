@@ -52,7 +52,7 @@ thing.method()
 
 ### Arguments / attributes list
 
-`dirty : boolean`\
+`dirty : boolean`
 <details>
 <summary>Returns `true` if values are not something from initial values, `false` otherwise.</summary>
 <br>
@@ -61,7 +61,7 @@ Est sequi tegenda excusatione ire modo curae sequi est est consensio consensio u
 
 ---
 
-`options : object`\
+`options : object`
 
 <details>
 <summary>Returns `{}` if values are something from initial values, `null` otherwise.</summary>
