@@ -56,9 +56,8 @@ Exemple : The arguments you need to pass depend of... :
 ---
 
 `dirty : boolean`\
-Returns `true` if values are not something from initial values, `false` otherwise.
 <details>
-<summary>More information.</summary>
+<summary>Returns `true` if values are not something from initial values, `false` otherwise.</summary>
 <br>
 Est sequi tegenda excusatione ire modo curae sequi est est consensio consensio ut aliquando amicitiae est vel bellum sit futurum futura sequi futurum est vel.
 </details>
@@ -66,9 +65,9 @@ Est sequi tegenda excusatione ire modo curae sequi est est consensio consensio u
 ---
 
 `options : object`\
-Returns `{}` if values are something from initial values, `null` otherwise.
+
 <details>
-<summary>More information.</summary>
+<summary>Returns `{}` if values are something from initial values, `null` otherwise.</summary>
 <br>
 De te esse Epicuri video ita instructior probo quas aut De artibus vellem De deterruisset doctrinis tenent cetero cetero probo vellem inquam est deterruisset qui.
 </details>
