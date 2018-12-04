@@ -55,7 +55,7 @@ Exemple : The arguments you need to pass depend of... :
 
 ---
 
-`dirty : boolean`
+`dirty : boolean`\
 Returns `true` if values are not something from initial values, `false` otherwise.
 <details>
 <summary>More information.</summary>
@@ -65,7 +65,7 @@ Est sequi tegenda excusatione ire modo curae sequi est est consensio consensio u
 
 ---
 
-`options : object`
+`options : object`\
 Returns `{}` if values are something from initial values, `null` otherwise.
 <details>
 <summary>More information.</summary>
