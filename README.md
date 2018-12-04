@@ -50,10 +50,7 @@ thing.method()
 
 ## Attributes
 
-About arguments / attributes. What about an argument list ?
-Exemple : The arguments you need to pass depend of... :
-
----
+### Arguments / attributes list
 
 `dirty : boolean`\
 <details>
@@ -61,8 +58,6 @@ Exemple : The arguments you need to pass depend of... :
 <br>
 Est sequi tegenda excusatione ire modo curae sequi est est consensio consensio ut aliquando amicitiae est vel bellum sit futurum futura sequi futurum est vel.
 </details>
-
----
 
 `options : object`\
 
@@ -72,9 +67,7 @@ Est sequi tegenda excusatione ire modo curae sequi est est consensio consensio u
 De te esse Epicuri video ita instructior probo quas aut De artibus vellem De deterruisset doctrinis tenent cetero cetero probo vellem inquam est deterruisset qui.
 </details>
 
----
-
-See code examples :
+### Examples
 
 ```js
 thing.doThing({ id: 12 })
