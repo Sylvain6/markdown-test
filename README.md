@@ -59,7 +59,7 @@ Returns `true` if values are not something from initial values, `false` otherwis
 <summary>More information.</summary>
 <br>
 Est sequi tegenda excusatione ire modo curae sequi est est consensio consensio ut aliquando amicitiae est vel bellum sit futurum futura sequi futurum est vel.
-<details>
+</details>
 
 `options : object`
 Returns `{}` if values are something from initial values, `null` otherwise.
@@ -67,7 +67,7 @@ Returns `{}` if values are something from initial values, `null` otherwise.
 <summary>More information.</summary>
 <br>
 De te esse Epicuri video ita instructior probo quas aut De artibus vellem De deterruisset doctrinis tenent cetero cetero probo vellem inquam est deterruisset qui.
-<details>
+</details>
 
 
 See code examples :
